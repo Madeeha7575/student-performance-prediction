@@ -57,23 +57,24 @@ Exploratory Data Analysis
 Average Scores by Subject
 
 
-Average Scores
+
+Average Scores:
 
 Observation: Reading achieved the highest average score among all subjects.
 
-Gender Performance
+Gender Performance:
 
 Observation: Male students scored higher in Mathematics, while female students performed better in Reading and Writing.
 
-Test Preparation Impact
+Test Preparation Impact:
 
 Observation: Students who completed the test preparation course achieved higher average scores across all subjects.
 
-Correlation Heatmap
+Correlation Heatmap:
 
 Observation: Strong positive correlations exist between Reading, Writing, and Overall Average Scores.
 
-Actual vs Predicted
+Actual vs Predicted:
 
 The scatter plot shows a strong relationship between actual and predicted writing scores, indicating that the model performs well on unseen data.
 
